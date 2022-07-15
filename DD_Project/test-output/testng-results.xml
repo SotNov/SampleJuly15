@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-14T18:34:15 IST" name="Default suite" finished-at="2022-07-14T18:34:16 IST" duration-ms="1212">
+    <groups>
+    </groups>
+    <test started-at="2022-07-14T18:34:15 IST" name="Default test" finished-at="2022-07-14T18:34:16 IST" duration-ms="1212">
+      <class name="ExtentReposrtsTc.ExtentTc">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:ExtentReposrtsTc.ExtentTc@3059cbc]" started-at="2022-07-14T18:34:15 IST" name="beforeClass" finished-at="2022-07-14T18:34:15 IST" duration-ms="504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="ExtentDemo()[pri:0, instance:ExtentReposrtsTc.ExtentTc@3059cbc]" started-at="2022-07-14T18:34:15 IST" name="ExtentDemo" finished-at="2022-07-14T18:34:15 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtentDemo -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ExtentReposrtsTc.ExtentTc@3059cbc]" started-at="2022-07-14T18:34:15 IST" name="afterMethod" finished-at="2022-07-14T18:34:16 IST" duration-ms="656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ExtentReposrtsTc.ExtentTc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
